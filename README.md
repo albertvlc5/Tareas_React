@@ -12,7 +12,7 @@ puede personalizarse tanto el borde como el fondo de su tarea a su gusto.
 
 
 
-![GIF]()
+![GIF](https://github.com/albertvlc5/Tareas_React/blob/master/TareasReact.gif?raw=true)
 
 
 
@@ -25,4 +25,4 @@ puede personalizarse tanto el borde como el fondo de su tarea a su gusto.
 - SCSS
 
 
-     - Albert Pla © CopyRight musiCloud SC
+     - Albert Pla © 
