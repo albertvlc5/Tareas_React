@@ -1,0 +1,16 @@
+.Tarea {
+    font-size: 1.3em;
+    border-radius: 10px;
+    margin: 0.5em;
+    padding: 1em;
+    width: 130px;
+}
+
+button {
+    border-radius: 8px;
+}
+
+.Tarea.completed {
+    opacity: 0.6;
+    text-decoration: line-through;
+}

@@ -1,0 +1,27 @@
+.Tareas {
+    background: #93c572;
+    flex: 1;
+    min-height: 100vh;
+}
+
+.Tareas .addTask {
+    color: black;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.addTask input {
+    all: unset;
+    border-bottom: 1px black solid;
+    padding: 1em;
+    color: black;
+}
+
+.Tareas .taskList {
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
