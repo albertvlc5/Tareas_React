@@ -5,15 +5,17 @@
 
 >
 
-Tu tienda de articulos deportivos de confianza.
+Introduzca sus tareas semanales,
 
-Entra y navega por nuestra aplicación descubriendo las nuevas tendencias del mundo deportivo.
+marquelas como completadas una vez finalizadas,
 
-Disfrute de la mejor calidad y precio, las mejores marcas deportivas, zapatillas, chandals, camisetas, material deportivo, y todo lo que desee en TREBLA SPORTS.
+eliminelas de tus tablero cuando no las desee,
+
+puede personalizarse tanto el borde como el fondo de su tarea a su gusto.
 
 
 
-![GIF](https://raw.githubusercontent.com/albertvlc5/ProyectCreditasFrontEnd/master/proyectienda.gif)
+![GIF](https://github.com/albertvlc5/Tareas_React/blob/master/TareasReact.gif?raw=true)
 
 
 
@@ -25,8 +27,6 @@ Disfrute de la mejor calidad y precio, las mejores marcas deportivas, zapatillas
 - Redux
 - Html
 - CSS
-- Material UI
-- Axios
 
 
      - Albert Pla © 
