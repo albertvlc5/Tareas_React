@@ -5,27 +5,28 @@
 
 >
 
-Introduzca sus tareas semanales,
+Tu tienda de articulos deportivos de confianza.
 
-marquelas como completadas una vez finalizadas,
+Entra y navega por nuestra aplicación descubriendo las nuevas tendencias del mundo deportivo.
 
-eliminelas de tus tablero cuando no las desee,
-
-puede personalizarse tanto el borde como el fondo de su tarea a su gusto.
+Disfrute de la mejor calidad y precio, las mejores marcas deportivas, zapatillas, chandals, camisetas, material deportivo, y todo lo que desee en TREBLA SPORTS.
 
 
 
-![GIF](https://github.com/albertvlc5/Tareas_React/blob/master/TareasReact.gif?raw=true)
+![GIF](https://raw.githubusercontent.com/albertvlc5/ProyectCreditasFrontEnd/master/proyectienda.gif)
+
 
 
 
 
 **Tecnologias utilizadas:**
+- Javascript
 - React
-- JSX
+- Redux
 - Html
 - CSS
-- SCSS
+- Material UI
+- Axios
 
 
      - Albert Pla © 
